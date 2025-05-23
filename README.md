@@ -49,6 +49,6 @@ Metrics Used:
 
 **👥 Team Members**
 
-Harshita
-Kanav Gupta
+Harshita,
+Kanav Gupta,
 Ronit Elton Mukhi
