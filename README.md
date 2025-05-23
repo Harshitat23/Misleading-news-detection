@@ -12,18 +12,24 @@ The dataset contains:
 5) real: Target variable indicating if the article is real (1) or fake (0).
 
 **🔍 Objective**
+
 -> Clean and preprocess the data.
+
 -> Perform exploratory data analysis (EDA).
+
 -> Build and evaluate machine learning models (Logistic Regression and Decision Tree).
+
 -> Compare model performance and identify the better classifier.
 
 **🧠 Model Building**
 1. Logistic Regression
 -> A linear model used for binary classification.
+   
 -> Good baseline model for text classification tasks.
 
-2. Decision Tree Classifier
+3. Decision Tree Classifier
 -> A non-linear model that builds decision rules based on the features.
+   
 -> Handles feature interactions well and provides interpretability.
 
 **📊 Model Evaluation**
@@ -34,4 +40,5 @@ Metrics Used:
    
 **Observations:**
 -> Decision Tree outperformed Logistic Regression in terms of accuracy.
+
 -> This suggests that a non-linear model is better suited for this dataset.
