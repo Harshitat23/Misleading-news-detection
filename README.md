@@ -46,3 +46,9 @@ Metrics Used:
 -> Decision Tree outperformed Logistic Regression in terms of accuracy.
 
 -> This suggests that a non-linear model is better suited for this dataset.
+
+**👥 Team Members**
+
+Harshita
+Kanav Gupta
+Ronit Elton Mukhi
