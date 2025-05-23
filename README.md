@@ -1,6 +1,7 @@
 # Misleading-news-detection
 
 **📌 Problem Statement**
+
 With the rapid spread of misinformation, especially on social media detecting fake news has become increasingly difficult. The goal of this project is to build a machine learning model that can classify news articles as real or fake based on features extracted from the data.
 
 **📂 Dataset**
@@ -23,11 +24,13 @@ The dataset contains:
 
 **🧠 Model Building**
 1. Logistic Regression
+   
 -> A linear model used for binary classification.
    
 -> Good baseline model for text classification tasks.
 
-3. Decision Tree Classifier
+2. Decision Tree Classifier
+   
 -> A non-linear model that builds decision rules based on the features.
    
 -> Handles feature interactions well and provides interpretability.
@@ -39,6 +42,7 @@ Metrics Used:
 3) Classification Report (includes Precision, Recall, F1-Score)
    
 **Observations:**
+
 -> Decision Tree outperformed Logistic Regression in terms of accuracy.
 
 -> This suggests that a non-linear model is better suited for this dataset.
